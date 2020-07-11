@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
+title:          Artificial Intelligence & Machine Learning Theory and Implementation
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+url:            "https://tianguangjian.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         TianGuangjian
+  url:          https://tianguangjian.github.io
+  email:        tianguangjian@gmail.com
 
 # Build settings
 markdown:       kramdown
