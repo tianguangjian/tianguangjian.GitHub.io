@@ -79,7 +79,7 @@ Markdown syntax introduction.
     * Item C 2
     * Item C 3
 
-#Tables
+# Tables
                     
 First Header  | Second Header
 ------------- | -------------
@@ -108,35 +108,12 @@ Content Cell  | Content Cell
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-#TeX(LaTeX)  
+# TeX(LaTeX) Math Equations
 $$E=mc^2$$
 
-Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline.
-
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
+Inline $E=mc^2$ equation
                     
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-
-                
-#FlowChart
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-#Sequence Diagram                   
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
 
 # Links
 {% highlight markdown %}
